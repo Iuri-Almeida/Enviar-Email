@@ -71,6 +71,9 @@ def sendEmail(remetente, senhaRemetente, destinatario, assunto, msg):
 def main():
 
     # Passando os parâmetros necessários para fazer o envio do email.
+    # Obs.: Se caso vc queira fazer o envio para mais de uma pessoa, basta
+    #       colocar o destinatário como um array de emails.
+    #       Ex.: destinatario = ["teste01@gmail.com", "teste02@gmail.com", "teste03@gmail.com"]
     remetente = ""
     senhaRemetente = ""
     destinatario = ""
