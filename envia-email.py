@@ -1,4 +1,4 @@
-# Projeto Envia Email - Python
+# Projeto Envia Email - Python e SMTPLib
 # Autor: Iuri Lopes Almeida
 # Data: 27/05/2020
 # Descrição: Esse programa foi escrito na linguagem Python e usou a biblioteca
